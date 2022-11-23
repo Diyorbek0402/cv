@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    background-color:rgba(1, 78, 86, 1);
+}
+
+
+.img_site{
+    border-radius: 50px;
+    width: 96px;
+    height: 96px;
+    left: 50% 96px;
+    top:50%  96px  34.5px;
+    border : 2px solid #000;
+}
